@@ -27,5 +27,5 @@ This project demonstrates how to train an agent using **Deep Q-Learning (DQN)** 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/RishitSaxena55/Lunar Lander.git
-   cd Lunar Lander
+   git clone https://github.com/RishitSaxena55/Lunar-Lander.git
+   cd Lunar-Lander
